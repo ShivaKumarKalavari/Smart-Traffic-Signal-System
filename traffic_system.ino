@@ -86,7 +86,7 @@ void loop(){
     digitalWrite(r1,1);
     digitalWrite(r3,1);
     
-    // Giving green to side-1
+    // Giving green to side-2
     digitalWrite(y2,0);
     digitalWrite(g2,1);
     
@@ -115,7 +115,7 @@ void loop(){
     digitalWrite(r1,1);
     digitalWrite(r2,1);
     
-    // Giving green to side-1
+    // Giving green to side-3
     digitalWrite(y3,0);
     digitalWrite(g3,1);
     
